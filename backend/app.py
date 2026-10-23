@@ -29,7 +29,7 @@ from pydantic import BaseModel, Field, ConfigDict
 
 import chunking.chunking as chunking_mod
 import citations.generate as generation_mod
-import ingests.Ingest as ingest_mod
+import ingestion.Ingest as ingest_mod
 import splitter.Splitter as splitter_mod
 
 
